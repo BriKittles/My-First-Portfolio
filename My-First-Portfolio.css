@@ -1,3 +1,5 @@
+
+/* Styling for HTML body>*/
 html, body {
   height: 100%;
   width: 100%;
@@ -15,13 +17,13 @@ header{
   font-size: 30px;
   height:auto;
 }
-
+/* H2 styling*/
 h2{
   color: #a6ff00;
   font-family: sans-serif;
   text-align: center
 }
-
+/* H3 styling*/
 h3{
   color: whitesmoke;
   text-align: center;
